@@ -1,0 +1,6 @@
+{
+  "name": "SchoolTruth: Systemic Audit & Integrity Simulator",
+  "description": "An interactive forensic toolkit and beginner-friendly guide to verify school performance, uncover institutional metric gaming, and protect honest schools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
